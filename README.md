@@ -1,3 +1,3 @@
 # Face-recognition
 Face recognition using PCA
-Based on face data whuch are given use principal component analysis with scratch 
+Based on face data which are given in repo, use principal component analysis with scratch 
